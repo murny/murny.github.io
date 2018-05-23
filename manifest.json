@@ -1,8 +1,7 @@
 {
-    "name": "",
-    "short_name": "",
-    "icons": [
-        {
+    "name": "Shane Murnaghan",
+    "short_name": "Murny",
+    "icons": [{
             "src": "/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
@@ -13,7 +12,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
+    "theme_color": "#0c76ac",
     "background_color": "#ffffff",
     "display": "standalone"
 }
