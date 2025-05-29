@@ -1,18 +1,18 @@
 {
-    "name": "Shane Murnaghan",
-    "short_name": "Murny",
-    "icons": [{
-            "src": "/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
+    "name": "Shane Murnaghan - Developer",
+    "short_name": "Shane M",
+    "description": "Personal website of Shane Murnaghan, Full Stack Software Developer",
+    "icons": [
         {
             "src": "/android-chrome-512x512.png",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any maskable"
         }
     ],
     "theme_color": "#0c76ac",
-    "background_color": "#ffffff",
-    "display": "standalone"
+    "background_color": "#0c76ac",
+    "display": "standalone",
+    "start_url": "/",
+    "scope": "/"
 }
